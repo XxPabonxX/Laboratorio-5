@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>posiciones/posenemies.txt</file>
+        <file>posiciones/posxposy_destru.txt</file>
+        <file>posiciones/posxposy_soli.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/bloque.png</file>
+        <file>imagenes/bloque_destructible.png</file>
+        <file>imagenes/bomba.png</file>
+        <file>imagenes/bomberman.png</file>
+        <file>imagenes/enemigo.png</file>
+        <file>imagenes/explo_abajo.png</file>
+        <file>imagenes/explo_arriba.png</file>
+        <file>imagenes/explo_centro.png</file>
+        <file>imagenes/explo_derecha.png</file>
+        <file>imagenes/explo_izquierda.png</file>
+        <file>imagenes/icono.ico</file>
+        <file>imagenes/puerta.png</file>
+    </qresource>
+</RCC>
